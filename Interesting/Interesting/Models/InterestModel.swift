@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Interest {
+    let title: String
+    let description: String
+}
